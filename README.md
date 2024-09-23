@@ -20,7 +20,12 @@ The dataset inlcudes the processed dataset at 100ms timescale. Each operator has
 
 Please cite appropriately if you find the dataset useful.
 ```
-
+@article{2024predictability,
+  title={On the Predictability of Fine-grained Cellular Network Throughput using Machine Learning Models},
+  author={Basit, Omar and Dinh, Phuc and Khan, Imran and Kong, Z Jonny and Hu, Y Charlie and Koutsonikolas, Dimitrios and Lee, Myungjin and Liu, Chaoyue},
+  year={2024},
+  publisher={Proc. of IEEE MASS 2024}
+}
 ```
 
 
